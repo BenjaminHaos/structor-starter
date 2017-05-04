@@ -112,6 +112,8 @@ and,
 
 ![alt text][step5p4]
 
-### You Are Ready to Go!
+## You Are Ready to Go!
 
-Please create an issue if the above does not work for you. You should now be able to follow along with the the documentation and get to building some UI!
+You should now be able to follow along with the the documentation and get to building some UI!
+
+*Please create an issue if the above does not work for you.*
