@@ -13,7 +13,7 @@ Create a basic Virtual Machine. **Make sure the privacy is set to public**.
 
 ![alt text][logo]
 
-![alt text][logo]step2.jpg
+![alt text][test]step2.jpg
 
 [logo]: ./docs/img/step1.jpg
 
