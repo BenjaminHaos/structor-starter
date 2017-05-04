@@ -20,7 +20,9 @@
 
 #### Step 1
 
-Create a basic Virtual Machine. **Make sure the privacy is set to public**.
+Create a basic Virtual Machine.
+
+**Make sure the privacy is set to public**.
 
 ![alt text][step1]
 
@@ -66,7 +68,7 @@ During the install, you will need to choose a directory, or simply press return,
 
 Once the above is completed, modify the ```package.json``` changing **one** line from this,
 
-```json
+```
 (...)
   "scripts": {
     (...)
@@ -79,7 +81,7 @@ Once the above is completed, modify the ```package.json``` changing **one** line
 
 to this,
 
-```json
+```
 (...)
   "scripts": {
     (...)
