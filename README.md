@@ -1,6 +1,6 @@
 [step1]: ./docs/img/step1.jpg
 [step2]: ./docs/img/step2.jpg
-[step3]: ./docs/img/step3.gif
+[step3p1]: ./docs/img/step3p1.gif
 [step3p2]: ./docs/img/step3p2.jpg
 [step4p1]: ./docs/img/step4p1.jpg
 [step4p2]: ./docs/img/step4p2.jpg
@@ -54,13 +54,13 @@ npm install
 npm install structor
 ```
 
-![alt text][step3]
+![alt text][step3p1]
 
 #### Step 3.5
 
 During the install, you will need to choose a directory, or simply press return,
 
-![alt text][step3p5]
+![alt text][step3p2]
 
 #### Step 4
 
@@ -106,9 +106,7 @@ choose ```open```,
 
 ![alt text][step5p3]
 
-and,
-
-...
+and, ...
 
 ![alt text][step5p4]
 
