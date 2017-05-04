@@ -1,6 +1,6 @@
 [step1]: ./docs/img/step1.jpg
 [step2]: ./docs/img/step2.jpg
-[step3]: ./docs/img/step3.jpg
+[step3]: ./docs/img/step3.gif
 [step3p2]: ./docs/img/step3p2.jpg
 [step4p1]: ./docs/img/step4p1.jpg
 [step4p2]: ./docs/img/step4p2.jpg
@@ -106,7 +106,9 @@ choose ```open```,
 
 ![alt text][step5p3]
 
-and
+and,
+
+...
 
 ![alt text][step5p4]
 
